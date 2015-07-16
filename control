@@ -1,0 +1,9 @@
+Package: com.min.hidenclines
+Name: Hide NC lines
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Min <minwenlsm@163.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 72
+Description: Hide Notification separation lines!隐藏通知中心今日界面上下两条白色横杠!
